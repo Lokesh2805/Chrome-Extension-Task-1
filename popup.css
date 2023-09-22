@@ -1,0 +1,26 @@
+body{
+    background: #f1f5f9;
+
+}
+
+.wrapper{
+    width: 300px;
+    text-align: center;
+}
+.changeColorBtn{
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding:5px;
+    background: #FFA500;
+    color: brown;
+    cursor: pointer;
+}
+.changeColorBtn:hover{
+color: black;
+}
+
+.changeText{
+    font-weight: bold;
+}

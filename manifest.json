@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+  "name": "Title Picker Extension",
+  "description": "Pickup the title of webpage",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+ 
+  "action":{
+    "default_popup":"popup.html"
+  },
+  "icons":{
+    "16":"/images/favicon.png",
+    "32":"/images/favicon.png",
+    "48":"/images/favicon.png"
+  }
+}
